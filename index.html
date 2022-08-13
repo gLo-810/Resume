@@ -34,7 +34,7 @@
   <!-- trigger lambda visitor counter -->
     <script>
 function updateCounter(){
-    fetch('https://dfwqsirh9c.execute-api.us-east-1.amazonaws.com/prod',{
+    fetch('https://dfwqsirh9c.execute-api.us-east-1.amazonaws.com/default/CloudResumeFunction',{
         method: 'GET'
     })
   .then(response => {

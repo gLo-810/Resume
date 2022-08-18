@@ -1,4 +1,4 @@
-# Welcome to my Cloud Resume Project
+# Welcome to my Cloud Resume. www.beatsbygabe.com
 
 Simple resume static app hosted on AWS. Below is a diagram of my current workflow
 
